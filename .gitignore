@@ -1,0 +1,11 @@
+/venv
+/.idea
+/__pycache__
+*.png
+.secret
+*.pyc
+*.commands
+test.py
+test2.py
+test3.py
+test4.py

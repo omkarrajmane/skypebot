@@ -1,0 +1,11 @@
+microsoftbotframework
+gunicorn
+dill
+prettytable
+sqlalchemy
+prettytable
+psycopg2-binary
+xlsxwriter
+oauth2client
+google-api-python-client
+boto3
